@@ -28,6 +28,14 @@ The analysis of the election. show that:
   
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+
+- Election audit summary:
+  - The creation of this program file, can be used in other elections.  While currently, this is serving to perform this task given three variables; ballots,         candidates, and counties.  We can expand on this to other degrees.
+  - If we would like to change from known counties to known voting districts, we can take the original code:
+  <img width="690" alt="Screen Shot 2022-01-03 at 2 07 39 PM" src="https://user-images.githubusercontent.com/91889241/147975196-42497c20-1407-4339-aab0-13888ccaace1.png">
+    And change the county references to districts:
+  <img width="620" alt="Screen Shot 2022-01-03 at 2 11 56 PM" src="https://user-images.githubusercontent.com/91889241/147975586-816bb4c8-1b46-4a49-8649-f98d35b203c7.png">
+
  
  ## Challenge Overiew
  
