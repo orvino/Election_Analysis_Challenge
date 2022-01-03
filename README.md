@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Challenge Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -35,11 +35,17 @@ The analysis of the election. show that:
   
   <img width="690" alt="Screen Shot 2022-01-03 at 2 07 39 PM" src="https://user-images.githubusercontent.com/91889241/147975196-42497c20-1407-4339-aab0-13888ccaace1.png">
   
-    - And change the county references to districts:
+   - And change the county references to districts:
     
   <img width="620" alt="Screen Shot 2022-01-03 at 2 11 56 PM" src="https://user-images.githubusercontent.com/91889241/147975586-816bb4c8-1b46-4a49-8649-f98d35b203c7.png">
 
- 
+  - We can also expand the selection to add cities or additional variables to the program.  For example, if we needed to add political party affiliation (presented as if in column 4 of the csv file) to the candidate, we would first need to create new variables to hold any forseeable party affiliations to the candidate.  Along with a new set of lists and dictionaries to contain them.
+
+
+
+
+
+
  ## Challenge Overiew
  
  ## Challenge Summary
