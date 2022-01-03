@@ -39,13 +39,10 @@ The analysis of the election. show that:
     
   <img width="620" alt="Screen Shot 2022-01-03 at 2 11 56 PM" src="https://user-images.githubusercontent.com/91889241/147975586-816bb4c8-1b46-4a49-8649-f98d35b203c7.png">
 
-  - We can also expand the selection to add cities or additional variables to the program.  For example, if we needed to add political party affiliation (presented as if in column 4 of the csv file) to the candidate, we would first need to create new variables to hold any forseeable party affiliations to the candidate.  Along with a new set of lists and dictionaries to contain them.
+  - We can also expand the selection to add cities or additional variables to the program.  For example, if we needed to add political party affiliation (presented as if in column 4 of the csv file) to the candidate, we would first need to create new variables to hold any forseeable party affiliations to the candidate.  Along with a new set of lists and dictionaries to contain them.  And then we would expound on the for loop statement to include the party with the candidate in its own if statement.  This will allow us to create more information with flexibility.
 
+<img width="329" alt="Screen Shot 2022-01-03 at 2 28 20 PM" src="https://user-images.githubusercontent.com/91889241/147977078-6d23c1b0-224f-4bcb-ab99-fa3d2f56bba1.png">
 
+<img width="436" alt="Screen Shot 2022-01-03 at 2 28 34 PM" src="https://user-images.githubusercontent.com/91889241/147977093-48b0624b-93f2-4652-9923-49234af2427a.png">
 
-
-
-
- ## Challenge Overiew
- 
- ## Challenge Summary
+<img width="562" alt="Screen Shot 2022-01-03 at 2 34 47 PM" src="https://user-images.githubusercontent.com/91889241/147977594-97fbbc52-960b-43a7-80c5-041ce924f405.png">
